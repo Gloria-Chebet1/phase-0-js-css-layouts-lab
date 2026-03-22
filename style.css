@@ -22,7 +22,7 @@
 h3 {
     margin: 0.5em 0;
 }
-p {
+.cat-breed p {
     margin: 0.5em 0 1em;
 }
 .cat-breed:hover {
